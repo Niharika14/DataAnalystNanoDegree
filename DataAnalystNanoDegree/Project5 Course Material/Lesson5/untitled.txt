@@ -1,0 +1,12 @@
+Plot Matrices have each plot use what types of variables? - Different Variables
+
+
+Faceted plots use what types of variables? - A subset of same variables
+
+
+Plot Matrices are good for what purpose? - A starting points of lots of variables
+
+
+Faceted plots are good for what purpose? - Braking down a variable into subsets.
+
+

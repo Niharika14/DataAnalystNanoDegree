@@ -33,12 +33,12 @@
 
 ## Summary of Findings
 
-> During my investigation of the Bike Ride Records dataset, I discovered that there is a substantial correlation between subscribers and Bike Trip Hours on working days, maybe due to an office or college hours. 
-> The highest number of bike journeys occurred between the hours of 8 a.m. and 5:00 p.m. throughout the day, and there were also more trips on weekdays (Monday through Friday), particularly on Thursday than on weekends (Saturday, Sunday). On weekdays, compared to weekends, bike journeys are usually shorter and faster. 
-> Overall, the subscribers' type is used more than the customers' type. The cost of utilizing the riding service differs significantly between subscribers and clients.
-> I also discovered that, as compared to female bikers, males have been the most popular motorcyclists of the 'Ford GoBike,' with 74.59 percent of the vote. 
->Bike-riding enthusiasts tend not to utilize bike-sharing programs. >Customers, or those who have not yet subscribed to the GoBike service, tend to utilize it largely on weekends and evenings, which might indicate that it is used for recreational purposes.
->To sum up my data, I believe that bike riding services were mostly utilized by working professionals who had daily subscriptions for trips to and from work, while non-subscribers primarily used the service for leisure activities in the evenings.
+> - During my investigation of the Bike Ride Records dataset, I discovered that there is a substantial correlation between subscribers and Bike Trip Hours on working days, maybe due to an office or college hours. 
+> - The highest number of bike journeys occurred between the hours of 8 a.m. and 5:00 p.m. throughout the day, and there were also more trips on weekdays (Monday through Friday), particularly on Thursday than on weekends (Saturday, Sunday). On weekdays, compared to weekends, bike journeys are usually shorter and faster. 
+> - Overall, the subscribers' type is used more than the customers' type. The cost of utilizing the riding service differs significantly between subscribers and clients.
+> - I also discovered that, as compared to female bikers, males have been the most popular motorcyclists of the 'Ford GoBike,' with 74.59 percent of the vote. 
+> - Bike-riding enthusiasts tend not to utilize bike-sharing programs. >Customers, or those who have not yet subscribed to the GoBike service, tend to utilize it largely on weekends and evenings, which might indicate that it is used for recreational purposes.
+> - To sum up my data, I believe that bike riding services were mostly utilized by working professionals who had daily subscriptions for trips to and from work, while non-subscribers primarily used the service for leisure activities in the evenings.
 
 ## Key Insights for Presentation
 
